@@ -159,7 +159,7 @@ This document outlines a structured approach to implement all features of the Jo
 | Feature                         | Priority | Status   |
 |---------------------------------|----------|----------|
 | Auth System (BetterAuth)        | High     | 🟡       |
-| DB Schema + Prisma              | High     | 🟢       |
+| DB Schema + Prisma              | High     | 🟡       |
 | Journal Entry Form + Submit     | High     | 🟡       |
 | OpenAI Sentiment Integration    | High     | 🔴       |
 | Journal History + Filters       | Med      | 🔴       |
@@ -172,4 +172,5 @@ This document outlines a structured approach to implement all features of the Jo
 
 *Legend: 🟢 = Complete | 🟡 = In Progress | 🔴 = Not Started*
 
+Hello Hamza made changes to readme....
 
